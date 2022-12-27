@@ -6,7 +6,17 @@ public class SimpleAgedCache {
 
     public SimpleAgedCache(Clock clock) {
     }
+    /*
 
+Host github.com
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa
+    IdentitiesOnly yes
+    UserKnownHostsFile /dev/null
+    StrictHostKeyChecking no
+
+    * */
     public SimpleAgedCache() {
     }
 
